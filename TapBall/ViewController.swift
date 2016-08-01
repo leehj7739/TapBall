@@ -26,7 +26,7 @@ class ViewController: UIViewController {
     
     
     @IBAction func makeBall(sender: AnyObject) {
-        print("tap!")
+        print("tap!2")
         makeRedBlock()
         createAnimatorStuff()
     
